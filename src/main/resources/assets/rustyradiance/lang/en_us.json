@@ -1,0 +1,13 @@
+{
+  "itemGroup.rustyradiance": "Example Mod Tab",
+  "block.rustyradiance.example_block": "Example Block",
+  "item.rustyradiance.example_item": "Example Item",
+
+  "rustyradiance.configuration.title": "Rusty Radiance Configs",
+  "rustyradiance.configuration.section.rustyradiance.common.toml": "Rusty Radiance Configs",
+  "rustyradiance.configuration.section.rustyradiance.common.toml.title": "Rusty Radiance Configs",
+  "rustyradiance.configuration.items": "Item List",
+  "rustyradiance.configuration.logDirtBlock": "Log Dirt Block",
+  "rustyradiance.configuration.magicNumberIntroduction": "Magic Number Text",
+  "rustyradiance.configuration.magicNumber": "Magic Number"
+}
